@@ -7,7 +7,7 @@
 PCB (PCBway) - 122.68 (85.93 for PCB + 36.75 for shipping) \
 526.64g PLA filament - $13.16 (According to bambu slicer) \
  \
-**TOTAL COST**
+**TOTAL COST: **
 $205.92 \
  \
 ***Purchase links*** \
