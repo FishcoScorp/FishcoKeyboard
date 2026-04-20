@@ -17,4 +17,5 @@ ESP - https://www.adafruit.com/product/5312 \
 Rotary Encoder - https://www.aliexpress.us/item/3256809594557634.html?src=google&gatewayAdapt=glo2usa \
 OLED Screen - https://www.aliexpress.us/item/3256806514926637.html?src=google&gatewayAdapt=glo2usa \
 PCB (PCBway) - https://www.pcbway.com/orderonline.aspx?outsideid=f14d6998-f6f9-438f-a26e-a599ecabf0dd \
+PETG - https://us.store.bambulab.com/products/petg-basic?id=703099511296864275 \
 
