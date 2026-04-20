@@ -7,6 +7,9 @@
 PCB (PCBway) - 122.68 (85.93 for PCB + 36.75 for shipping) \
 526.64g PLA filament - $13.16 (According to bambu slicer) \
  \
+**TOTAL COST**
+$205.92 \
+ \
 ***Purchase links*** \
 M2 screws - https://www.amazon.com/Mounting-Replacement-Mountings-Screwdriver-SSD-Mounting/dp/B0FH2KWFGG/ref=sr_1_7?dib=eyJ2IjoiMSJ9.-Nvsxcmya8HNc8pHflKMUaGKyrF-e9Qg8bcmXXLsUJnatO5AjarHKlx7KcO5V2hcLfRlLKLPsjUApl2rU9goNK89tQtJf7ywEEN4kSVsMWJh68UqhUBgYzdc--4m4DT_G5Li7qk6Dx8Pfj7CFAdp883WV3CuFYiGq8OBbp9p5enYQU1x3jzgMnhLZozK08D2sk8p1nnD8wFA852SCBlWgDlY7q8Yz7AGI8k6nUJPktQ.HSFWZ2lAqIiF1iVMsVF7Nvxrhd7nFxnLEWwBd4F03hw&dib_tag=se&keywords=m2+3mm&qid=1776696648&sr=8-7 \
 Cherry MX switches - https://mechanicalkeyboards.com/products/cherry-mx2a-brown-55g-tactile  \
