@@ -2,7 +2,7 @@
 My keyboard for the program fallout by hackclub\
 \
 This keyboard was made with convieniece in mind, with 15 customizable macro keys (4 on left 11 on right) as well as a volume dial and small screen. \
-\
+
 # Table of Contents\
 Bill of Materials: https://github.com/FishcoScorp/FishcoKeyboard/edit/main/README.md#:~:text=Build_Files-,BOM,-.csv \
 Photo Gallery: https://github.com/FishcoScorp/FishcoKeyboard/edit/main/README.md#:~:text=Fallout%20Zine.md-,Photo,-Gallery.md \
