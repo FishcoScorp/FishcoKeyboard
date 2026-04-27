@@ -3,6 +3,12 @@ My keyboard for the program fallout by hackclub\
 \
 This keyboard was made with convieniece in mind, with 15 customizable macro keys (4 on left 11 on right) as well as a volume dial and small screen.\
 \
+# Table of Contents\
+Bill of Materials: https://github.com/FishcoScorp/FishcoKeyboard/edit/main/README.md#:~:text=Build_Files-,BOM,-.csv
+Photo Gallery: https://github.com/FishcoScorp/FishcoKeyboard/edit/main/README.md#:~:text=Fallout%20Zine.md-,Photo,-Gallery.md
+Code: https://github.com/FishcoScorp/FishcoKeyboard/edit/main/README.md#:~:text=README.md-,code,-.py
+Zine: https://github.com/FishcoScorp/FishcoKeyboard/edit/main/README.md#:~:text=BOM.csv-,Fallout,-Zine.md
+
 I am also in the process of working on a software that will interface with the keyboard and allow me to easily switch macro keys and the display on the screen, and make it easy to flash new code to the keyboard.\
 \
 <img width="1728" height="2304" alt="Fallout Zine (1)" src="https://github.com/user-attachments/assets/b9a8a6cf-b9f9-49dc-b606-feb89abb5515" />\
