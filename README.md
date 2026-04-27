@@ -18,7 +18,7 @@ I used Kicad, and started by making a matrix with all the keys at about where I 
 <img width="955" height="661" alt="Screenshot 2026-04-27 at 12 48 47 PM" src="https://github.com/user-attachments/assets/213e1361-f150-4cac-8b38-c14336622c7c" />
 \
 Then I have the main schematic sheet, where I make all the rest of the connections. Using tags I connect the matrix to the ESP and also the screen and rotary encoder. Notice I connect the grounds of the latter two elements using a GND tag. This is because I am going to use a gnd fill later, which means the board will be coated in a thin layer of copper, removing the need for GND connections as this coating will serve that purpose.
-<img width="915" height="627" alt="Screenshot 2026-04-27 at 12 53 35 PM" src="https://github.com/user-attachments/assets/c95b4233-4187-4312-852b-f0b982430c49" />
+<img width="443" height="652" alt="Screenshot 2026-04-27 at 1 09 43 PM" src="https://github.com/user-attachments/assets/077df68d-56f0-48c4-86a6-1bad62dc8fc3" />
 \
 Now bring it over to the PCB editor, where you will shape what your keyboard looks like. You can use an app called KB Placer by creating a layout beforehand on the website http://keyboard-layout-editor.com/ and then importing the JSON to KB placer. However, this did not work for me so I had to manually place everything and create the outline of the keyboard myself. I then connected the matrix, rotary encoder, and screen before adding the GND fill (the red in this photo)
 <img width="1263" height="542" alt="Screenshot 2026-04-13 at 10 05 19 PM" src="https://github.com/user-attachments/assets/b246f0a8-3c77-493d-bfbe-129f6b38c093" />
