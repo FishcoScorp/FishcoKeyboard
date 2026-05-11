@@ -1,9 +1,9 @@
 Item,Quantity,Details,Unit Cost (USD),Total Cost (USD),Link
-M2 Screws (3mm),22,Mounting screws for PCB,$4.69,$4.69,https://www.amazon.com/Mounting-Replacement-Mountings-Screwdriver-SSD-Mounting/dp/B0FH2KWFGG
-Cherry MX Switches,93,Cherry MX2A Brown 55g tactile,$0.39,$39.00,https://mechanicalkeyboards.com/products/cherry-mx2a-brown-55g-tactile
+M2 Screws (3mm),22,Mounting screws for PCB,$0.99,$0.99,https://www.aliexpress.us/item/3256802317314157.html?spm=a2g0o.productlist.main.1.1104ycBkycBk6G&algo_pvid=ee703a81-0e40-4623-abf5-5fb2972557e2&algo_exp_id=ee703a81-0e40-4623-abf5-5fb2972557e2-0&pdp_ext_f=%7B%22order%22%3A%22911%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.52%210.99%21%21%214.52%210.99%21%402101c59117785044746993201ec7b2%2112000020908479814%21sea%21US%217654033034%21ABX%211%210%21n_tag%3A-29910%3Bd%3A8e3ac2ad%3Bm03_new_user%3A-29895%3BpisId%3A5000000203531395&curPageLogUid=etorZpcxQGNX&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002503628909%7C_p_origin_prod%3A
+Cherry MX Switches (Cheaper here),93,Cherry MX2A Brown 55g tactile,$0.39,$39.00,https://mechanicalkeyboards.com/products/cherry-mx2a-brown-55g-tactile
 ESP32-S3 Dev Board,1,ESP32-S3-DevKitC-1-N8 (8MB Flash + 8MB PSRAM),$15.95,$15.95,https://www.adafruit.com/product/5312
 Rotary Encoder,1,Standard rotary encoder,$6.58,$6.58,https://www.aliexpress.us/item/3256809594557634.html
 OLED Screen,1,Small OLED display,$3.86,$3.86,https://www.aliexpress.us/item/3256806514926637.html
 PCB Manufacturing,1,PCB + shipping from PCBWay,$122.68,$122.68,https://www.pcbway.com/orderonline.aspx?outsideid=f14d6998-f6f9-438f-a26e-a599ecabf0dd
 PETG Filament (1kg),1,PETG Basic with spool,$22.99,$22.99,https://us.store.bambulab.com/products/petg-basic?id=703099511296864275
-TOTAL,,,,215.75,
+TOTAL,,,,$212.05,
